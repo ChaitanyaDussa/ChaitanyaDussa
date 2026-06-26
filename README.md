@@ -105,8 +105,9 @@ Hackathon project that embeds encrypted data into image pixels to disguise sensi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaDussa&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaDussa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ChaitanyaDussa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---

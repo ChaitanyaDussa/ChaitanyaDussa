@@ -89,11 +89,6 @@ Python-based image steganography hackathon project.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaDussa&theme=tokyo-night"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaDussa&theme=tokyonight&row=1&column=7"/>
-</p>
 
 ## 🐍 Contribution Snake
 

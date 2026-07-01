@@ -72,7 +72,7 @@ Python-based image steganography hackathon project.
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaDussa&show_icons=true&theme=tokyonight"/>
@@ -81,7 +81,7 @@ Python-based image steganography hackathon project.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ChaitanyaDussa&theme=tokyonight&hide_border=true"/>
-</p>
+</p>-->
 
 ## 📈 Contribution Graph
 
